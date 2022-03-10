@@ -10,7 +10,7 @@ namespace RepasoPersona.Core
         
         public double Efectivo {get; private set;}
     }
-
+}
 
 
     public void Debitar (double monto)

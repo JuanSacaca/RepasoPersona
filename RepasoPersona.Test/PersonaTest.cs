@@ -3,12 +3,13 @@ using Xunit;
 
 namespace RepasoPersona.Test
 {
-    public class UnitTest1
+    public class PersonaTest
     {
+        public persona Luis ( get; set;)
+        }
         [Fact]
         public void Test1()
-        {
+        { 
 
         }
-    }
 }
